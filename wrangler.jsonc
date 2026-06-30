@@ -1,7 +1,13 @@
 {
-  "name": "spark-site-template",
+  "name": "pdp-dashboard",
+  "account_id": "6ba8d559dd652da1003752c4674dfa6c",
   "compatibility_date": "2026-02-01",
   "assets": {
     "directory": "./dist"
+  },
+  "env": {
+    "staging": {
+      "name": "pdp-dashboard-staging"
+    }
   }
 }
