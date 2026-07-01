@@ -1,0 +1,36 @@
+{
+  "practices": [
+    {
+      "name": "Covatto Family Dentistry",
+      "status": "live",
+      "liveSiteUrl": "https://www.covattofamilydentistry.com/",
+      "stagingUrl": "",
+      "bugherdUrl": "",
+      "cmsUrl": "https://www.covattofamilydentistry.com/wp-login.php"
+    },
+    {
+      "name": "Harrison Family Dental",
+      "status": "live",
+      "liveSiteUrl": "https://harrisonfamdental.com/",
+      "stagingUrl": "",
+      "bugherdUrl": "",
+      "cmsUrl": "https://harrisonfamdental.com/wp-login.php"
+    },
+    {
+      "name": "Englander Dental",
+      "status": "live",
+      "liveSiteUrl": "https://englanderdental.com/",
+      "stagingUrl": "",
+      "bugherdUrl": "",
+      "cmsUrl": "https://englanderdental.com/wp-login.php"
+    },
+    {
+      "name": "Center For Smile Enhancement",
+      "status": "building",
+      "liveSiteUrl": "",
+      "stagingUrl": "https://cse.spark0.io/",
+      "bugherdUrl": "https://www.bugherd.com/projects/528535/kanban",
+      "cmsUrl": ""
+    }
+  ]
+}
